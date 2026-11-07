@@ -1,0 +1,10 @@
+[package]
+name = "zakat-rs-waqf-endowment-yield"
+version = "1.0.0"
+edition = "2021"
+description = "Perpetual Waqf Endowment Corpus Preservation & Yield Allocator"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "zakat_rs_waqf_endowment_yield"
+path = "main.rs"
